@@ -1,1 +1,6 @@
 netstat
+
+-- NOTE --
+This program is obsolete. Replacement for netstat is ss. Replacement for netstat -r is ip route. Replacement for netstat -i is ip -s link. Replacement for netstat -g is ip maddr.
+
+Now the new command is SS // IMPORTANT
